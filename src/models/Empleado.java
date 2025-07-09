@@ -15,6 +15,10 @@ public class Empleado implements Comparable<Empleado> {
         this.position = position;
     }
 
+    public Empleado(int id2) {
+        //TODO Auto-generated constructor stub
+    }
+
     public int getId() {
         return id;
     }

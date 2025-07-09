@@ -166,3 +166,5 @@ En esta práctica se estudiaron los mapas (maps) en Java, analizando sus diferen
 
 ## Ejercicio 1
 ![Ejercicio 1](Captura%20de%20pantalla%202025-07-08%20195226.png)
+## Ejercicio 2
+![Ejercicio 1](Captura%20de%20pantalla%202025-07-09%20175513.png)
