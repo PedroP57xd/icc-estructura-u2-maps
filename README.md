@@ -1,3 +1,4 @@
+<details>
 # Non-Linear Data Structures 
 
 ## Getting Started
@@ -150,4 +151,18 @@ Si se usara un `HashMap` en lugar de `TreeMap`, entonces `hashCode()` y `equals(
 
 ### Conclusión
 Para administrar un directorio telefónico sin claves duplicadas y ordenado por nombre, la mejor solución es un **`TreeMap`**. Esto garantiza orden automático y eficiencia en operaciones de búsqueda y modificación.
+</details>
+# Práctica de Diccionarios Mapas
+## 📌 Información General
+Título: Práctica de Diccionarios Mapas
+Asignatura: Estructura de Datos
+Carrera: Computación
+Estudiante: Pedro Panjón
+Fecha: 08/07/2025
+Profesor: Ing. Pablo Torres
+## 🛠 Descripción
+En esta práctica se estudiaron los mapas (maps) en Java, analizando sus diferentes implementaciones como `HashMap`, `LinkedHashMap` y `TreeMap`. Se realizaron ejercicios prácticos para comprender el almacenamiento de pares clave-valor, la gestión de duplicados y el mantenimiento del orden en las claves, aplicando estos conceptos en la resolución de problemas.
+## 📷 Captura de Imagen
 
+## Ejercicio 1
+![Ejercicio 1](Captura%20de%20pantalla%202025-07-08%20195226.png)
